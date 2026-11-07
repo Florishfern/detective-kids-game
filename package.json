@@ -1,0 +1,12 @@
+{
+  "name": "detective-kids-game",
+  "version": "1.0.0",
+  "description": "นักสืบตัวจิ๋ว ตามหาของในบ้าน - เกมฝึกสายตาและการสังเกตสำหรับเด็ก",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["game", "kids", "detective", "thai", "svg"],
+  "author": "Florishfern",
+  "license": "MIT"
+}
